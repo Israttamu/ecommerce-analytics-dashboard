@@ -50,8 +50,8 @@ Measure long-term growth and customer lifetime value:
 
 ---
 ## 📈 Key Insights from the Dashboard
-- **Net Sales:** '$4,180,874' revenue generated during the period  
-- **Repeat Customers:** '46%' of buyers placed more than one order, showing strong retention  
+- **Net Sales:** ~'$4,180,874' revenue generated during the period  
+- **Repeat Customers:** ~'46%' of buyers placed more than one order, showing strong retention  
 - **Province-Level Sales:** 'Washington' leads in net sales, while `Second Province` shows high customer density  
 - **Peak Activity:** Most orders occur between `8 AM – 4 PM`, highlighting evening shopping preference  
 - **Payment Methods:** `Shopify_payments` dominates with `58.45%` share, followed by `paypal`  
@@ -90,3 +90,4 @@ Measure long-term growth and customer lifetime value:
 - When customers shop the most (day/hour) ⏰  
 - Customer loyalty patterns (repeat vs. one-time buyers) 💡  
 - Top product categories and payment preferences 🛒  
+
